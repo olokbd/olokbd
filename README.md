@@ -3,7 +3,7 @@ I’m a **backend-focused** developer passionate about building reliable and sca
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olokbd&label=Profile%20views&color=0e75b6&style=flat" alt="olokbd" /> </p>
 
-- 🔭 I’m currently working on [Anyaa & Reminder Pro](https://top.gg/user/609136269460979712) (Discord App)
+- 🔭 I’m currently working on <a href="https://top.gg/bot/1270792195372220426" target="_blank">Anyaa</a> & <a href="https://discord.com/discovery/applications/1348036148970393763" target="_blank">Reminder Pro</a> (Discord App)
 
 - 🌱 I’m currently learning **C#, ASP.NET**
 
