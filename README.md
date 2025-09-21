@@ -12,7 +12,3 @@ I’m a **backend-focused** developer passionate about building reliable and sca
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=olokbd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=olokbd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/munna33) 
