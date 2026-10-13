@@ -2,9 +2,9 @@
 
 I'm a **backend-focused software developer** passionate about building reliable, scalable, and maintainable systems. I specialize in **Node.js, JavaScript, and discord.js**, with hands-on experience developing production applications, managing Linux servers, and maintaining backend infrastructure. I'm currently expanding my expertise in **C#, ASP.NET Core, and .NET** for enterprise backend development.
 
-- 💼 Founder of [DhruboLab](https://dhrubolab.com), a software studio building and maintaining digital products.
-- 🚀 Building and maintaining [Anyaa](https://anyaa.top), [Reminder Pro](https://reminderpro.net), [Ticket Pro](https://ticketpro.dhrubolab.com), and other projects.
-- 📱 Developed [Reminder Pro: App with Alarm](https://play.google.com/store/apps/details?id=com.dhrubolab.reminderpro), a native Android application built with **Java**.
+- 💼 Founder of <a href="https://dhrubolab.com" target="_blank" rel="noopener noreferrer">DhruboLab</a>, a software studio building and maintaining digital products.
+- 🚀 Building and maintaining <a href="https://anyaa.top" target="_blank" rel="noopener noreferrer">Anyaa</a>, <a href="https://reminderpro.net" target="_blank" rel="noopener noreferrer">Reminder Pro</a>, <a href="https://ticketpro.dhrubolab.com" target="_blank" rel="noopener noreferrer">Ticket Pro</a>, and other projects.
+- 📱 Developed <a href="https://play.google.com/store/apps/details?id=com.dhrubolab.reminderpro" target="_blank" rel="noopener noreferrer">Reminder Pro: App with Alarm</a>, a native Android application built with **Java**.
 - 🖥️ Experienced in Linux server administration, VPS deployment, reverse proxies, and production application hosting.
 - 🌱 Currently learning **C#, ASP.NET Core, and .NET**.
 - 🎯 Interested in backend architecture, API development, system reliability, and scalable infrastructure.
