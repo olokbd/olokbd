@@ -3,7 +3,9 @@ I’m a **backend-focused** developer passionate about building reliable and sca
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olokbd&label=Profile%20views&color=0e75b6&style=flat" alt="olokbd" /> </p>
 
-- 🔭 I’m currently working on [Anyaa](https://anyaa.top) & [Reminder Pro](https://reminderpro.net) (Discord App)
+- 💼 Founded [DhruboLab](https://dhrubolab.com) (Software Studio)
+
+- 🔭 I’m currently working on [Anyaa](https://anyaa.top), [Reminder Pro](https://reminderpro.net), [Ticket Pro](https://ticketpro.dhrubolab.com), [Reminder Pro Android](https://play.google.com/store/apps/details?id=com.dhrubolab.reminderpro)
 
 - 🌱 I’m currently learning **C#, ASP.NET**
 
